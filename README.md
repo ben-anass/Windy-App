@@ -79,8 +79,8 @@ Application-m-t-o/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Application-m-t-o.git
-cd Application-m-t-o
+git clone https://github.com/ben-anass/Windy-App
+cd Windy-App
 ```
 
 ### 2. Configure Your API Key
@@ -89,7 +89,7 @@ Open `js/config.js` and insert your OpenWeatherMap API key:
 
 ```javascript
 export const CONFIG = {
-  API_KEY: "YOUR_ACTUAL_API_KEY",
+  API_KEY: "d276c62571a2fd3dfee7df0e723a0270Y",
   BASE_URL: "https://api.openweathermap.org/data/2.5",
   WEATHER_ENDPOINT: "/weather",
   ICON_URL: "https://openweathermap.org/img/wn",

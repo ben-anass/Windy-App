@@ -5,7 +5,7 @@
 ============================================================ */
 
 export const CONFIG = {
-  API_KEY: "YOUR_API_KEY",
+  API_KEY: "d276c62571a2fd3dfee7df0e723a0270",
   BASE_URL: "https://api.openweathermap.org/data/2.5",
   WEATHER_ENDPOINT: "/weather",
   ICON_URL: "https://openweathermap.org/img/wn",
